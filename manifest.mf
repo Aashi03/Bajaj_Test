@@ -1,0 +1,2 @@
+Main-Class: DestinationHashGenerator
+Class-Path: lib/gson-2.8.9.jar

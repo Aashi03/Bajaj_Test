@@ -1,0 +1,8 @@
+{
+  "key1": 10,
+  "key2": {
+    "destination": "finalValue",
+    "key3": "value3"
+  }
+}
+ 
